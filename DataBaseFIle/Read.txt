@@ -1,0 +1,10 @@
+This Project developed in Netbean
+
+create database In MYSQL As a [cloud]
+
+
+
+   Database Password Is :::; NO
+UserName:root
+  Database File is IN Databasefile Folder
+
